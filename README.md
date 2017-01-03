@@ -38,7 +38,7 @@ ctrl-D - stop the program
 ```cp [item1, item2,.....] [directory to be moved]``` - copy the files to a different directory
 
 ****
-## globbing(works with other commands not just ls)
+### globbing(works with other commands not just ls)
 
 ```ls *html``` - list all the files that have html 
 
